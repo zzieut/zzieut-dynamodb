@@ -1,3 +1,7 @@
+# local setting files
+.idea
+.DS_Store
+
 # Logs
 logs
 *.log

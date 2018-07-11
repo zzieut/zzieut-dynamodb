@@ -1,0 +1,28 @@
+{
+  "name": "zzieut-dynamodb",
+  "version": "1.0.0",
+  "description": "ZZIEUT's Node.js Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzieut/zzieut-dynamodb.git"
+  },
+  "keywords": [
+    "zzieut",
+    "zzim",
+    "aws",
+    "dynamodb"
+  ],
+  "author": {
+    "name": "da-sol-kim",
+    "email": "da-sol.kim@zzieut.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzieut/zzieut-dynamodb/issues"
+  },
+  "homepage": "https://github.com/zzieut/zzieut-dynamodb#readme"
+}
