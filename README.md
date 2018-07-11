@@ -1,13 +1,8 @@
 # zzieut-dynamodb
 
-**Badges** 
-
-Optional badges such as npm version, test and build coverage, and so on.
-
 **Summary** 
 
-Frequently used 'aws-sdk' DynamoDB Functions
-One- or two-sentence description of what the module does.  
+This Module Contain frequently used 'aws-sdk' DynamoDB Functions by ZZIEUT.  
 
 ## Overview
 
@@ -59,8 +54,9 @@ For a good pull request, we ask you provide the following:
 
 ## Contributors
 
-Names of module "owners" (lead developers) and other developers who 
-have contributed.
+[ZZIEUT](https://github.com/orgs/zzieut/people)
+
+[contributors](https://github.com/zzieut/zzieut-dynamodb/graphs/contributors)
 
 ## License
 
