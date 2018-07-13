@@ -9,8 +9,8 @@
  * @param {string} key
  * @returns {boolean}
  */
-function hasOwnProperty(obj, key) {
+function hasProperty(obj, key) {
   return Object.prototype.hasOwnProperty.call(obj, key);
 }
 
-module.exports = hasOwnProperty;
+module.exports = hasProperty;

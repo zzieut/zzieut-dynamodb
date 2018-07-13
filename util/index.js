@@ -1,9 +1,9 @@
 const deepCopy = require('./deepCopy');
-const hasOwnProperty = require('./hasOwnProperty');
+const hasProperty = require('./hasProperty');
 
 const utils = {
   deepCopy,
-  hasOwnProperty,
+  hasProperty,
 };
 
 module.exports = utils;
