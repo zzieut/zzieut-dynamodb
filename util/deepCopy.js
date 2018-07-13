@@ -1,3 +1,7 @@
+/**
+ * Copyright(c) ZZIEUT
+ * MIT License https://github.com/zzieut/zzieut-dynamodb/blob/master/LICENSE
+ */
 
 function copy(src) {
   if (!(src instanceof Object)) {
