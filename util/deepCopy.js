@@ -36,4 +36,4 @@ function deepCopy(value) {
   return copy(value);
 }
 
-exports.deepCopy = deepCopy;
+module.exports = deepCopy;

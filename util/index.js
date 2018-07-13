@@ -1,3 +1,7 @@
 const deepCopy = require('./deepCopy');
 
-exports.deepCopy = deepCopy.deepCopy;
+const utils = {
+  deepCopy,
+};
+
+module.exports = utils;
